@@ -1,1 +1,9 @@
+# omit cache files created by python
 __pycache__
+
+# omit files created by robotfw and selenium
+log.html
+output.html
+output.xml
+report.html
+selenium-screenshot-*.png
